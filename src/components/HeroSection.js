@@ -5,6 +5,7 @@ import Button from './Button';
 import SocialMediaArrow from '../assets/images/social-media-arrow.svg';
 import ScrollDownArrow from '../assets/images/scroll-down-arrow.svg';
 import PText from './PText';
+import '../styles/style.css';
 
 const HeroStyles = styled.div`
   .hero {
@@ -154,15 +155,20 @@ export default function HeroSection() {
         <div className="container">
           <h1 className="hero__heading">
             <span>Hello, This is</span>
-            <span className="hero__name">Mohd Rash</span>
+            <span className="hero__name" title="Mohammed Rasheek M">
+              Mohd Rash
+            </span>
           </h1>
-          <div className="hero__img">
+          <div className="hero__img special_img">
             <img src={HeroImg} alt="" />
           </div>
           <div className="hero__info">
             <PText>
-              I'm working as a full stack developer for 1 year. I love to code,
-              hitch hike and learn different cultures and lifestyles of people.
+              <span style={{ backgroundColor: '#2e2e2e67' }}>
+                Senior full stack developer in Osperb Innovations. I love to
+                code, hitch-hike, travel, learn different cultures and
+                lifestyles of people.
+              </span>{' '}
             </PText>
             <Button btnText="see my works" btnLink="/projects" />
           </div>
@@ -179,7 +185,7 @@ export default function HeroSection() {
                     target="_blank"
                     rel="noreferrer"
                   >
-                    GIT
+                    GT
                   </a>
                 </li>
                 <li>

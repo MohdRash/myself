@@ -57,10 +57,13 @@ export default function Footer() {
     <FooterStyle>
       <div className="container">
         <div className="footer__col1">
-          <h1 className="footer__col1__title">Mohd Rash</h1>
+          <h1 className="footer__col1__title" title="Mohammed Rasheek M">
+            Mohd Rash
+          </h1>
           <PText>
-            I'm working as a full stack developer for 1 year. I love to code,
-            hitch hike and learn different cultures and lifestyles of people.
+            Senior full stack developer in Osperb Innovations. I love to code,
+            hitch-hike, travel, learn different cultures and lifestyles of
+            people.
           </PText>
         </div>
         <div className="footer__col2">

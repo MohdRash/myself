@@ -150,11 +150,11 @@ export default function About() {
 
               <AboutInfoItem
                 title="FrontEnd"
-                items={['HTML', 'CSS', 'JS', 'Bootstrap', 'ReactJS']}
+                items={['HTML', 'CSS', 'JS', 'Bootstrap', 'ReactJS', 'NextJS']}
               />
               <AboutInfoItem
                 title="BackEnd"
-                items={['NodeJS', 'Express', 'C++', 'python', 'NodeRed(noob)']}
+                items={['NodeJS', 'Express', 'C++', 'Python', 'NodeRed']}
               />
               <AboutInfoItem
                 title="Database"
@@ -163,22 +163,36 @@ export default function About() {
               <AboutInfoItem
                 title="Cyber Sec"
                 items={[
-                  'nmap',
-                  'metasploit',
+                  'Nmap',
+                  'Metasploit',
                   'SE',
-                  'nikto',
-                  'steganography',
+                  'Nikto',
+                  'Steganography',
                   'OSINT',
                 ]}
               />
               <AboutInfoItem
+                title="Web3"
+                items={[
+                  'Moralis',
+                  'Solidity',
+                  'Remix',
+                  'Ethereum',
+                  'Polygon',
+                  'IPFS',
+                  'Swarm',
+                  'Metamask',
+                ]}
+              />
+              <AboutInfoItem
                 title="Special"
-                items={['Linux', 'Debian', 'Arch', 'kernal(noob)']}
+                items={['Linux', 'Debian', 'Arch', 'kernal']}
               />
             </div>
             <div className="about__info__item">
               <h1 className="about__info__heading">Experiences</h1>
 
+              <AboutInfoItem title="2022-" items={['Intern at Dreamr']} />
               <AboutInfoItem
                 title="2021-"
                 items={['Jnr developer at Epic Games']}

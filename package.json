@@ -1,6 +1,6 @@
 {
 	"name": "react-portfolio",
-	"homepage":"https://mohdrash.github.io/myself/",
+	"homepage":"https://mohdrash.github.io/myself",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {

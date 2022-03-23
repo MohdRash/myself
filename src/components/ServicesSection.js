@@ -28,7 +28,7 @@ export default function ServicesSection() {
     <ServicesItemsStyles>
       <Row className="container">
         <SectionTitle
-          subheading="What I'm Contributing In"
+          subheading="Where I'm Contributing In"
           heading="Contributions"
         />
         <Col style={{ padding: '0 10 0 10' }} className="services__allItems">
