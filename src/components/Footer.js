@@ -61,9 +61,9 @@ export default function Footer() {
             Mohd Rash
           </h1>
           <PText>
-            Senior full stack developer in Osperb Innovations. I love to code,
-            hitch-hike, travel, learn different cultures and lifestyles of
-            people.
+            Im a passionate stack developer, linux enthusiast, entrepreneur,
+            coo, devops, community head. I love to code, hike mountains, travel,
+            learn different cultures and lifestyles of people.
           </PText>
         </div>
         <div className="footer__col2">
@@ -106,8 +106,9 @@ export default function Footer() {
                 path: 'mailto:iamrasheek00@gmail.com',
               },
               {
-                title: 'Perinthattiri (PO), Malappuram, Kerala, India',
-                path: 'https://goo.gl/maps/otFGXdc1aEvRpWYJ9',
+                title: 'still unknown, luckily im in planet earth!',
+                path:
+                  'https://earth.google.com/web/@0,0,0a,22251752.77375655d,35y,0h,0t,0r',
               },
             ]}
           />

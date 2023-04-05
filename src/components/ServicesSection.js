@@ -35,15 +35,15 @@ export default function ServicesSection() {
           <ServicesSectionItem
             icon={
               <img
-                src="https://uploads-ssl.webflow.com/5f1b6caefc9c7e190b047e08/5f34ec40b2ae3fb816d50f3a_TL%20Logo.svg"
-                style={{ width: '100px' }}
+                src="https://res.cloudinary.com/osperbian/image/upload/v1651396159/myslef_data/dreamr-logo_o5qvhm.png"
+                style={{ width: '160px', height: '50px' }}
                 className="grayscale"
                 alt="trace-labs"
               />
             }
             className="col-4"
-            title="Trace Labs"
-            desc="A nonprofit organization whose mission is to accelerate the family reunification of missing persons while training members in the tradecraft of open source intelligence (OSINT)."
+            title="Dreamr"
+            desc="We are a team of ordinary people who have become extraordinary dreamers by following our hearts and taking action on our passions. We believe in the limitless potential of the human spirit, which means (if you're a human being reading this) that we believe in your limitless potential, period."
           />
           <ServicesSectionItem
             icon={

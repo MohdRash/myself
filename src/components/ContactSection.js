@@ -60,7 +60,7 @@ export default function ContactSection() {
           <div className="left">
             <ContactInfoItem icon={<MdLocalPhone />} text="+919061402804" />
             <ContactInfoItem icon={<MdEmail />} text="iamrasheek00@gmail.com" />
-            <ContactInfoItem text="Malappuram, Kerala, India" />
+            <ContactInfoItem text="Somewhere in this world 😅" />
           </div>
           <div className="right">
             <ContactForm />

@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import HeroImg from '../assets/images/hero.png';
+import HeroImg from '../assets/images/hero.jpg';
 import Button from './Button';
 import SocialMediaArrow from '../assets/images/social-media-arrow.svg';
 import ScrollDownArrow from '../assets/images/scroll-down-arrow.svg';
@@ -165,9 +165,9 @@ export default function HeroSection() {
           <div className="hero__info">
             <PText>
               <span style={{ backgroundColor: '#2e2e2e67' }}>
-                Senior full stack developer in Osperb Innovations. I love to
-                code, hitch-hike, travel, learn different cultures and
-                lifestyles of people.
+                Im a passionate stack developer, linux enthusiast, entrepreneur,
+                coo, devops, community head. I love to code, hike mountains,
+                travel, learn different cultures and lifestyles of people.
               </span>{' '}
             </PText>
             <Button btnText="see my works" btnLink="/projects" />

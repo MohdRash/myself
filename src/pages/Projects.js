@@ -66,7 +66,7 @@ export default function Projects() {
   return (
     <>
       <ProjectStyle>
-        <div className="container clearrs">
+        <div className="container">
           <SectionTitle
             heading="Projects"
             subheading="some of my recent works"

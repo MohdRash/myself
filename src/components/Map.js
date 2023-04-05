@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import MapImg from '../assets/images/map.png';
+import MapImg from '../assets/images/map2.jpg';
 import PText from './PText';
 
 const MapStyles = styled.div`
@@ -49,14 +49,14 @@ export default function Map() {
       <div className="container">
         <div className="map__card">
           <h3 className="map__card__heading">Here is me</h3>
-          <PText>Perinthattiri (PO), Malappuram, Kerala, India</PText>
+          <PText>Somewhere in the earth:)</PText>
           <a
             className="map__card__link"
-            href="https://www.google.com/maps/place/11%C2%B002'13.8%22N+76%C2%B007'57.9%22E/@11.037162,76.1305723,17z/data=!3m1!4b1!4m6!3m5!1s0x0:0x631d0fe7616501ed!7e2!8m2!3d11.037162!4d76.1327611?shorturl=1"
+            href="https://earth.google.com/web/@0,0,0a,22251752.77375655d,35y,0h,0t,0r"
             target="_blank"
             rel="noreferrer"
           >
-            Open in google map
+            Try to find me in the globe
           </a>
         </div>
       </div>

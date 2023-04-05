@@ -80,11 +80,11 @@ export default function AboutSection() {
             heading="About Me"
           />
           <PText>
-            I'm a full stack developer from Osperb Innovations, Malappuram,
-            India. I'm semi-intermediate in frontend development and backend
-            development. I'm pretty interested and servicing in cyber security
-            field. When I'm great in a topic, I love to contribute in other's
-            works.
+            I'm from planet earth. A place of beauty and nature. Since my
+            childhood, i love sports (like football and MMA), hiking mountains,
+            cooking, eating and drawing. I always try to draw stuff with my
+            unique point of view. I also love to create things that can be
+            usefull to others.
           </PText>
           <div className="aboutSection__buttons">
             <Button btnText="Works" btnLink="/projects" />
