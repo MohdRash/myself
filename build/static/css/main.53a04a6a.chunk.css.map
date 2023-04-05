@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/styles/style.css"],"names":[],"mappings":"AAAA,sBACI,yGAA6D,CAC7D,+GAAkE,CAClE,UACJ","file":"main.53a04a6a.chunk.css","sourcesContent":[".bHvqqr .button:hover {\n    background: linear-gradient( #c2c2c260, #2e2e2e50) !important;\n    border: 2px solid linear-gradient(#c2c2c260, #2e2e2e50) !important;\n    color: #fff;\n}\n\n\n/* TODO */"]}
